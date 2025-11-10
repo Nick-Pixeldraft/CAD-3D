@@ -6,3 +6,4 @@ EXAMPLE: if a deer is 38" tall at 0 yards away it will be a tenth (1/10th) of th
 - This will not give you superior accuracy. All values are within a allowable range; +- 1 Yard. Depending on how tall the animal is (On Average). See NOTES.png for my work. 
 
 The Human Range Finder works in the same way. 
+EDIT 11/10/25: I forgot to include that the prints must be scaled down about 25% Also math is extreamly approximate, it starts to become inaccurate past 30 yards. I plan to improve. 
